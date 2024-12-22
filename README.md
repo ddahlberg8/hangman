@@ -2,3 +2,5 @@ This is a collection of python programs from 12 Python Projects at Free Code Cam
 
 Hangman
 Tic-Tac-Toe
+Rock Paper Scissors
+
